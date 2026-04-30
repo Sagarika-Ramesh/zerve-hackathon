@@ -9,7 +9,6 @@ import os
 
 st.set_page_config(
     page_title="Zerve Analytics — Hackathon",
-    page_icon="🚀",
     layout="wide"
 )
 
